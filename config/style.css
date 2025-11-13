@@ -1,0 +1,17 @@
+ul, ol { list-style: none; }
+a { text-decoration: none; }
+
+/*Contenedores */
+header { background-color: #216ab3; color: #fff; padding: 5px 10px; }
+.Conthcj { display: flex; align-items: center; justify-content: space-between; }
+.Conthcl { display: flex; align-items: center; justify-content: left; }
+.Conthcc { display: flex; align-items: center; justify-content: center;}
+
+/* Menu */
+#menu { height: 45px; }
+nav ul li {float: left; }
+nav ul li a { display: block; padding: 5px 10px; cursor: pointer; width: auto; color: #f5f7f9; } 
+nav ul li a:hover { font-size: 16px; color: #d4d4d4; background: #4a8abad2; border-radius: 20px; } 
+ 
+/*Images */
+.ImgLog2 { width: 70px; height: 50px; }
